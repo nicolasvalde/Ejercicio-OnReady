@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-onready",
+  "version": "1.0.0",
+  "description": "Ejercicio para postulacion OnReady",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Valdearenas",
+  "license": "ISC"
+}
